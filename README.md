@@ -1,1 +1,1 @@
-# monthly-budget
+Monthly budget calculation project.
